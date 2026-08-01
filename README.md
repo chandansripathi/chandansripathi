@@ -35,8 +35,8 @@
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> 
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
