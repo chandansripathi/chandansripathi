@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://chandansripathi.comchandansripathi/chandansripathi/blob/main/CS%20Logo%203000x3000%20White.png](https://raw.githubusercontent.com/chandansripathi/chandansripathi/master/CS%20Logo%203000x3000%20White.png)" alt="Chandan Sripathi Logo" width="150">
+  <img src="https://raw.githubusercontent.com/chandansripathi/chandansripathi/master/CS%20Logo%203000x3000%20White.png" alt="Chandan Sripathi Logo" width="150">
   <h1> Chandan Sripathi
     </h1>
 </div>
